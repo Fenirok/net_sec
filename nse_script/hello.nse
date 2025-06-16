@@ -3,7 +3,7 @@ A beginner-friendly NSE script that simply returns a test message.
 Useful for learning NSE scripting basics.
 ]]
 
-author = "Abhranil"
+author = "Name"
 license = "Same as Nmap -- See https://nmap.org/book/man-legal.html"
 categories = {"discovery", "safe"}
 
